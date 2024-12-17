@@ -9,23 +9,23 @@
   
   <!-- Instagram Button -->
   <a href="https://www.instagram.com/mavricksameer" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: #E4405F; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <button style="background-color: #E4405F; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; border: none; cursor: pointer; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
       Instagram
-    </div>
+    </button>
   </a>
   
   <!-- Gmail Button -->
   <a href="mailto:mavricksameer@example.com" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: #D14836; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <button style="background-color: #D14836; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; border: none; cursor: pointer; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
       Gmail
-    </div>
+    </button>
   </a>
 
   <!-- WhatsApp Button -->
   <a href="https://wa.me/92554538546" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; background-color: #25D366; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
+    <button style="background-color: #25D366; color: white; padding: 12px 30px; font-size: 18px; font-weight: bold; border-radius: 30px; margin: 10px; border: none; cursor: pointer; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
       WhatsApp
-    </div>
+    </button>
   </a>
 </div>
 
@@ -40,7 +40,7 @@
   </a> 
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Backend Tools:</h3>
 <p align="center">
   <!-- Backend Tools -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -51,7 +51,6 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/> </a>
-  <a href="https://www.railsconf.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
@@ -65,11 +64,3 @@
 
 <h3 align="center" style="font-size: 18px; color: #555;">Thank you for visiting my profile! 😊</h3>
 <p align="center" style="color: #333;">If you have any questions or want to collaborate, feel free to reach out! Let's build something amazing together! 🚀</p>
-
-
-
-
-
-
-
-
